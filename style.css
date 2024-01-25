@@ -1,3 +1,6 @@
 table, th, td {
     border: 1px solid ;
 }
+ td{
+    color: rgb(135, 135, 181);
+}
